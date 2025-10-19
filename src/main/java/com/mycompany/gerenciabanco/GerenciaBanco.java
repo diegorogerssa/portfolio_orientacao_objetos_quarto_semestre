@@ -21,10 +21,6 @@ public class GerenciaBanco {
         Conta conta = new Conta(100);
         Usuario usuario_01 = new Usuario("Miriam", "da Silva Vidoto Santana", "38411282899", conta);
         
-      
-        
-//        int escolha = leitor.nextInt();
-        
         int opcao = 0;
         
         do{
